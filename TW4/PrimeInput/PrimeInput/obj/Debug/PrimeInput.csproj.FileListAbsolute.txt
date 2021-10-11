@@ -1,0 +1,10 @@
+D:\fp4\PrimeInput\PrimeInput\bin\Debug\PrimeInput.exe.config
+D:\fp4\PrimeInput\PrimeInput\bin\Debug\PrimeInput.exe
+D:\fp4\PrimeInput\PrimeInput\bin\Debug\PrimeInput.pdb
+D:\fp4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.csprojAssemblyReference.cache
+D:\fp4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.Form1.resources
+D:\fp4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.Properties.Resources.resources
+D:\fp4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.csproj.GenerateResource.cache
+D:\fp4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.csproj.CoreCompileInputs.cache
+D:\fp4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.exe
+D:\fp4\PrimeInput\PrimeInput\obj\Debug\PrimeInput.pdb
