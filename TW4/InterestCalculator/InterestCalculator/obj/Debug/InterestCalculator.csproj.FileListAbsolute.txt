@@ -1,0 +1,10 @@
+D:\fp4\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+D:\fp4\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+D:\fp4\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+D:\fp4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csprojAssemblyReference.cache
+D:\fp4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Form1.resources
+D:\fp4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Properties.Resources.resources
+D:\fp4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csproj.GenerateResource.cache
+D:\fp4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csproj.CoreCompileInputs.cache
+D:\fp4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.exe
+D:\fp4\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.pdb
