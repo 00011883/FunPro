@@ -1,0 +1,10 @@
+D:\fp4\TheSum\TheSum\bin\Debug\TheSum.exe.config
+D:\fp4\TheSum\TheSum\bin\Debug\TheSum.exe
+D:\fp4\TheSum\TheSum\bin\Debug\TheSum.pdb
+D:\fp4\TheSum\TheSum\obj\Debug\TheSum.csprojAssemblyReference.cache
+D:\fp4\TheSum\TheSum\obj\Debug\TheSum.Form1.resources
+D:\fp4\TheSum\TheSum\obj\Debug\TheSum.Properties.Resources.resources
+D:\fp4\TheSum\TheSum\obj\Debug\TheSum.csproj.GenerateResource.cache
+D:\fp4\TheSum\TheSum\obj\Debug\TheSum.csproj.CoreCompileInputs.cache
+D:\fp4\TheSum\TheSum\obj\Debug\TheSum.exe
+D:\fp4\TheSum\TheSum\obj\Debug\TheSum.pdb
