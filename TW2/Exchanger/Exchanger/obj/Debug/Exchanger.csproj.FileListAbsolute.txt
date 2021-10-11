@@ -1,0 +1,10 @@
+D:\Games\MyFolder\WIUT\lvl4\FunPro\TW2\Exchanger\Exchanger\bin\Debug\Exchanger.exe.config
+D:\Games\MyFolder\WIUT\lvl4\FunPro\TW2\Exchanger\Exchanger\bin\Debug\Exchanger.exe
+D:\Games\MyFolder\WIUT\lvl4\FunPro\TW2\Exchanger\Exchanger\bin\Debug\Exchanger.pdb
+D:\Games\MyFolder\WIUT\lvl4\FunPro\TW2\Exchanger\Exchanger\obj\Debug\Exchanger.csproj.AssemblyReference.cache
+D:\Games\MyFolder\WIUT\lvl4\FunPro\TW2\Exchanger\Exchanger\obj\Debug\Exchanger.Form1.resources
+D:\Games\MyFolder\WIUT\lvl4\FunPro\TW2\Exchanger\Exchanger\obj\Debug\Exchanger.Properties.Resources.resources
+D:\Games\MyFolder\WIUT\lvl4\FunPro\TW2\Exchanger\Exchanger\obj\Debug\Exchanger.csproj.GenerateResource.cache
+D:\Games\MyFolder\WIUT\lvl4\FunPro\TW2\Exchanger\Exchanger\obj\Debug\Exchanger.csproj.CoreCompileInputs.cache
+D:\Games\MyFolder\WIUT\lvl4\FunPro\TW2\Exchanger\Exchanger\obj\Debug\Exchanger.exe
+D:\Games\MyFolder\WIUT\lvl4\FunPro\TW2\Exchanger\Exchanger\obj\Debug\Exchanger.pdb
