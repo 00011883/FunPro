@@ -1,0 +1,10 @@
+D:\fp3\HaveAGuees\HaveAGuees\bin\Debug\HaveAGuees.exe.config
+D:\fp3\HaveAGuees\HaveAGuees\bin\Debug\HaveAGuees.exe
+D:\fp3\HaveAGuees\HaveAGuees\bin\Debug\HaveAGuees.pdb
+D:\fp3\HaveAGuees\HaveAGuees\obj\Debug\HaveAGuees.csprojAssemblyReference.cache
+D:\fp3\HaveAGuees\HaveAGuees\obj\Debug\HaveAGuees.Form1.resources
+D:\fp3\HaveAGuees\HaveAGuees\obj\Debug\HaveAGuees.Properties.Resources.resources
+D:\fp3\HaveAGuees\HaveAGuees\obj\Debug\HaveAGuees.csproj.GenerateResource.cache
+D:\fp3\HaveAGuees\HaveAGuees\obj\Debug\HaveAGuees.csproj.CoreCompileInputs.cache
+D:\fp3\HaveAGuees\HaveAGuees\obj\Debug\HaveAGuees.exe
+D:\fp3\HaveAGuees\HaveAGuees\obj\Debug\HaveAGuees.pdb

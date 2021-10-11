@@ -1,0 +1,10 @@
+D:\fp3\CruelGame\CruelGame\bin\Debug\CruelGame.exe.config
+D:\fp3\CruelGame\CruelGame\bin\Debug\CruelGame.exe
+D:\fp3\CruelGame\CruelGame\bin\Debug\CruelGame.pdb
+D:\fp3\CruelGame\CruelGame\obj\Debug\CruelGame.csprojAssemblyReference.cache
+D:\fp3\CruelGame\CruelGame\obj\Debug\CruelGame.Form1.resources
+D:\fp3\CruelGame\CruelGame\obj\Debug\CruelGame.Properties.Resources.resources
+D:\fp3\CruelGame\CruelGame\obj\Debug\CruelGame.csproj.GenerateResource.cache
+D:\fp3\CruelGame\CruelGame\obj\Debug\CruelGame.csproj.CoreCompileInputs.cache
+D:\fp3\CruelGame\CruelGame\obj\Debug\CruelGame.exe
+D:\fp3\CruelGame\CruelGame\obj\Debug\CruelGame.pdb
