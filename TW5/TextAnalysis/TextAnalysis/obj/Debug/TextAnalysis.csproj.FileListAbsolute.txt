@@ -1,0 +1,10 @@
+D:\fp5\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.exe.config
+D:\fp5\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.exe
+D:\fp5\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.pdb
+D:\fp5\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.csprojAssemblyReference.cache
+D:\fp5\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.Form1.resources
+D:\fp5\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.Properties.Resources.resources
+D:\fp5\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+D:\fp5\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+D:\fp5\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.exe
+D:\fp5\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.pdb
