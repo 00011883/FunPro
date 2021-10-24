@@ -1,0 +1,10 @@
+D:\fp5\FunProStatistics\FunProStatistics\bin\Debug\FunProStatistics.exe.config
+D:\fp5\FunProStatistics\FunProStatistics\bin\Debug\FunProStatistics.exe
+D:\fp5\FunProStatistics\FunProStatistics\bin\Debug\FunProStatistics.pdb
+D:\fp5\FunProStatistics\FunProStatistics\obj\Debug\FunProStatistics.csprojAssemblyReference.cache
+D:\fp5\FunProStatistics\FunProStatistics\obj\Debug\FunProStatistics.Form1.resources
+D:\fp5\FunProStatistics\FunProStatistics\obj\Debug\FunProStatistics.Properties.Resources.resources
+D:\fp5\FunProStatistics\FunProStatistics\obj\Debug\FunProStatistics.csproj.GenerateResource.cache
+D:\fp5\FunProStatistics\FunProStatistics\obj\Debug\FunProStatistics.csproj.CoreCompileInputs.cache
+D:\fp5\FunProStatistics\FunProStatistics\obj\Debug\FunProStatistics.exe
+D:\fp5\FunProStatistics\FunProStatistics\obj\Debug\FunProStatistics.pdb
