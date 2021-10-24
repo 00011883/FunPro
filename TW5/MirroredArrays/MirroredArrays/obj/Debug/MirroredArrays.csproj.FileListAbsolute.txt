@@ -1,0 +1,10 @@
+D:\fp5\MirroredArrays\MirroredArrays\bin\Debug\MirroredArrays.exe.config
+D:\fp5\MirroredArrays\MirroredArrays\bin\Debug\MirroredArrays.exe
+D:\fp5\MirroredArrays\MirroredArrays\bin\Debug\MirroredArrays.pdb
+D:\fp5\MirroredArrays\MirroredArrays\obj\Debug\MirroredArrays.csprojAssemblyReference.cache
+D:\fp5\MirroredArrays\MirroredArrays\obj\Debug\MirroredArrays.Form1.resources
+D:\fp5\MirroredArrays\MirroredArrays\obj\Debug\MirroredArrays.Properties.Resources.resources
+D:\fp5\MirroredArrays\MirroredArrays\obj\Debug\MirroredArrays.csproj.GenerateResource.cache
+D:\fp5\MirroredArrays\MirroredArrays\obj\Debug\MirroredArrays.csproj.CoreCompileInputs.cache
+D:\fp5\MirroredArrays\MirroredArrays\obj\Debug\MirroredArrays.exe
+D:\fp5\MirroredArrays\MirroredArrays\obj\Debug\MirroredArrays.pdb
