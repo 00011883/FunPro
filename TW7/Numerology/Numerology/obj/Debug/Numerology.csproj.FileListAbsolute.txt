@@ -1,0 +1,10 @@
+D:\fp7\Numerology\Numerology\bin\Debug\Numerology.exe.config
+D:\fp7\Numerology\Numerology\bin\Debug\Numerology.exe
+D:\fp7\Numerology\Numerology\bin\Debug\Numerology.pdb
+D:\fp7\Numerology\Numerology\obj\Debug\Numerology.csprojAssemblyReference.cache
+D:\fp7\Numerology\Numerology\obj\Debug\Numerology.Form1.resources
+D:\fp7\Numerology\Numerology\obj\Debug\Numerology.Properties.Resources.resources
+D:\fp7\Numerology\Numerology\obj\Debug\Numerology.csproj.GenerateResource.cache
+D:\fp7\Numerology\Numerology\obj\Debug\Numerology.csproj.CoreCompileInputs.cache
+D:\fp7\Numerology\Numerology\obj\Debug\Numerology.exe
+D:\fp7\Numerology\Numerology\obj\Debug\Numerology.pdb
