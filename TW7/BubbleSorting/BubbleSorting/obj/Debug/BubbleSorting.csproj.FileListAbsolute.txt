@@ -1,0 +1,10 @@
+D:\fp7\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.exe.config
+D:\fp7\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.exe
+D:\fp7\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.pdb
+D:\fp7\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.csprojAssemblyReference.cache
+D:\fp7\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.Form1.resources
+D:\fp7\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.Properties.Resources.resources
+D:\fp7\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.csproj.GenerateResource.cache
+D:\fp7\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.csproj.CoreCompileInputs.cache
+D:\fp7\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.exe
+D:\fp7\BubbleSorting\BubbleSorting\obj\Debug\BubbleSorting.pdb
