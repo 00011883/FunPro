@@ -1,0 +1,9 @@
+D:\fp8\RelayRace\RelayRace\bin\Debug\RelayRace.exe.config
+D:\fp8\RelayRace\RelayRace\bin\Debug\RelayRace.exe
+D:\fp8\RelayRace\RelayRace\bin\Debug\RelayRace.pdb
+D:\fp8\RelayRace\RelayRace\obj\Debug\RelayRace.Form1.resources
+D:\fp8\RelayRace\RelayRace\obj\Debug\RelayRace.Properties.Resources.resources
+D:\fp8\RelayRace\RelayRace\obj\Debug\RelayRace.csproj.GenerateResource.cache
+D:\fp8\RelayRace\RelayRace\obj\Debug\RelayRace.csproj.CoreCompileInputs.cache
+D:\fp8\RelayRace\RelayRace\obj\Debug\RelayRace.exe
+D:\fp8\RelayRace\RelayRace\obj\Debug\RelayRace.pdb

@@ -1,0 +1,10 @@
+D:\fp8\Exchanger\Exchanger\bin\Debug\Exchanger.exe.config
+D:\fp8\Exchanger\Exchanger\bin\Debug\Exchanger.exe
+D:\fp8\Exchanger\Exchanger\bin\Debug\Exchanger.pdb
+D:\fp8\Exchanger\Exchanger\obj\Debug\Exchanger.csprojAssemblyReference.cache
+D:\fp8\Exchanger\Exchanger\obj\Debug\Exchanger.Form1.resources
+D:\fp8\Exchanger\Exchanger\obj\Debug\Exchanger.Properties.Resources.resources
+D:\fp8\Exchanger\Exchanger\obj\Debug\Exchanger.csproj.GenerateResource.cache
+D:\fp8\Exchanger\Exchanger\obj\Debug\Exchanger.csproj.CoreCompileInputs.cache
+D:\fp8\Exchanger\Exchanger\obj\Debug\Exchanger.exe
+D:\fp8\Exchanger\Exchanger\obj\Debug\Exchanger.pdb

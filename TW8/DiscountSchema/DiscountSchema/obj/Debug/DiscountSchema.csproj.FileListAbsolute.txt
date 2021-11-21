@@ -1,0 +1,9 @@
+D:\fp8\DiscountSchema\DiscountSchema\bin\Debug\DiscountSchema.exe.config
+D:\fp8\DiscountSchema\DiscountSchema\bin\Debug\DiscountSchema.exe
+D:\fp8\DiscountSchema\DiscountSchema\bin\Debug\DiscountSchema.pdb
+D:\fp8\DiscountSchema\DiscountSchema\obj\Debug\DiscountSchema.Form1.resources
+D:\fp8\DiscountSchema\DiscountSchema\obj\Debug\DiscountSchema.Properties.Resources.resources
+D:\fp8\DiscountSchema\DiscountSchema\obj\Debug\DiscountSchema.csproj.GenerateResource.cache
+D:\fp8\DiscountSchema\DiscountSchema\obj\Debug\DiscountSchema.csproj.CoreCompileInputs.cache
+D:\fp8\DiscountSchema\DiscountSchema\obj\Debug\DiscountSchema.exe
+D:\fp8\DiscountSchema\DiscountSchema\obj\Debug\DiscountSchema.pdb
