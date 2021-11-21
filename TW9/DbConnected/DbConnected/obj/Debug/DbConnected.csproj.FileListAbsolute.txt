@@ -1,0 +1,10 @@
+D:\fp9\DbConnected\DbConnected\bin\Debug\DbConnected.exe.config
+D:\fp9\DbConnected\DbConnected\bin\Debug\DbConnected.exe
+D:\fp9\DbConnected\DbConnected\bin\Debug\DbConnected.pdb
+D:\fp9\DbConnected\DbConnected\obj\Debug\DbConnected.csprojAssemblyReference.cache
+D:\fp9\DbConnected\DbConnected\obj\Debug\DbConnected.Form1.resources
+D:\fp9\DbConnected\DbConnected\obj\Debug\DbConnected.Properties.Resources.resources
+D:\fp9\DbConnected\DbConnected\obj\Debug\DbConnected.csproj.GenerateResource.cache
+D:\fp9\DbConnected\DbConnected\obj\Debug\DbConnected.csproj.CoreCompileInputs.cache
+D:\fp9\DbConnected\DbConnected\obj\Debug\DbConnected.exe
+D:\fp9\DbConnected\DbConnected\obj\Debug\DbConnected.pdb
