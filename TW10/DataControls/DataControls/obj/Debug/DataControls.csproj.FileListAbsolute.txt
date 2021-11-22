@@ -1,0 +1,11 @@
+E:\Users\00011883\Desktop\TW10\DataControls\DataControls\bin\Debug\db.mdb
+E:\Users\00011883\Desktop\TW10\DataControls\DataControls\bin\Debug\DataControls.exe.config
+E:\Users\00011883\Desktop\TW10\DataControls\DataControls\bin\Debug\DataControls.exe
+E:\Users\00011883\Desktop\TW10\DataControls\DataControls\bin\Debug\DataControls.pdb
+E:\Users\00011883\Desktop\TW10\DataControls\DataControls\obj\Debug\DataControls.csprojAssemblyReference.cache
+E:\Users\00011883\Desktop\TW10\DataControls\DataControls\obj\Debug\DataControls.Form1.resources
+E:\Users\00011883\Desktop\TW10\DataControls\DataControls\obj\Debug\DataControls.Properties.Resources.resources
+E:\Users\00011883\Desktop\TW10\DataControls\DataControls\obj\Debug\DataControls.csproj.GenerateResource.cache
+E:\Users\00011883\Desktop\TW10\DataControls\DataControls\obj\Debug\DataControls.csproj.CoreCompileInputs.cache
+E:\Users\00011883\Desktop\TW10\DataControls\DataControls\obj\Debug\DataControls.exe
+E:\Users\00011883\Desktop\TW10\DataControls\DataControls\obj\Debug\DataControls.pdb
